@@ -1,0 +1,4 @@
+Bundle-Name: ip-training-service-api
+Bundle-SymbolicName: com.khalibre.trainig.service.api
+Bundle-Version: 1.0.0
+Export-Package: com.khalibre.trainig.service.api.api

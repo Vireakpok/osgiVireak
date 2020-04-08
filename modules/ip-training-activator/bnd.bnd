@@ -1,0 +1,4 @@
+Bundle-Activator: com.khalibre.training.activator.ActivatorClassActivator
+Bundle-Name: ip-training-activator
+Bundle-SymbolicName: com.khalibre.training.activator
+Bundle-Version: 1.0.0
